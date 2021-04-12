@@ -1,5 +1,6 @@
 ### Hi I'm Gerardo 👋
-![logoGedrix](https://user-images.githubusercontent.com/11398322/114454197-f3f5a700-9b9f-11eb-8eba-5272be7413d3.png)
+![portada](https://user-images.githubusercontent.com/11398322/114464476-6d46c700-9bab-11eb-82ed-295ccf98bdf2.PNG)
+
 ```js
 const thai = {
   pronouns: "she" | "her",
