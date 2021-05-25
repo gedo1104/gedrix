@@ -73,7 +73,7 @@
 
 
 
-<a href="gedrix.rm93@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gedrix.rm93@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="gedo.rm04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gedo.rm04@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
