@@ -49,8 +49,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gedrix&show_icons=true&theme=buefy&count_private=true&hide=issues&line_height=24">
 <!--[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedrix&show_icons=true)](https://github.com/gedrix)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedrix&show_icons=true)
-
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedrix&show_icons=true)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedrix&hide=hack,ShaderLab&langs_count=8)
 <br>
 
 
