@@ -50,7 +50,7 @@
 <!--[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedrix&show_icons=true)](https://github.com/gedrix)-->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedrix&show_icons=true)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedrix&hide=hack,ShaderLab&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedrix&hide=hack,ShaderLab,Less,SCSS&langs_count=6)
 <br>
 
 
