@@ -25,9 +25,9 @@
 
 
 
-- 💻 &nbsp;   PHP | MySQL | MongoDB | Arduino
+- 💻 &nbsp;   PHP |  JavaScript | MySQL | MongoDB | Arduino |
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | AngularJS | Lumen | Laravel| Git
+- 🌐 &nbsp; HTML | CSS  | SCSS | Bootstrap | AngularJS | Lumen | Laravel | Git
 
 <!--
 
