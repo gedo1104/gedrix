@@ -1,6 +1,9 @@
 ### Hi I'm Gerardo 👋
-![portada](https://user-images.githubusercontent.com/11398322/114464476-6d46c700-9bab-11eb-82ed-295ccf98bdf2.PNG)
 
+<!--![portada](https://user-images.githubusercontent.com/11398322/114464476-6d46c700-9bab-11eb-82ed-295ccf98bdf2.PNG)
+-->
+
+![gedo1](https://user-images.githubusercontent.com/11398322/120935355-02f06580-c6c8-11eb-87f7-d7eba0bbf8cb.png)
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
