@@ -15,7 +15,7 @@
 - 🤔 &nbsp; Exploring IOT.
 
 
-- 🌱 &nbsp; Ongoing learning node and graphql.
+- 🌱 &nbsp; flutter and dart learning.
 
 - ✍️ &nbsp; Pursuing web development and electronics as hobbies.
 
@@ -25,9 +25,9 @@
 
 
 
-- 💻 &nbsp;   PHP |  JavaScript | MySQL | MongoDB | Arduino |
+- 💻 &nbsp;  | C# | PHP |  JavaScript | MySQL | MongoDB | OracleDB | PlSql | Arduino |
 
-- 🌐 &nbsp; HTML | CSS  | SCSS | Bootstrap | AngularJS | Lumen | Laravel | Git
+- 🌐 &nbsp; HTML | CSS  | SCSS | Bootstrap | AngularJS | Lumen | Laravel | Flutter |Git
 
 <!--
 
