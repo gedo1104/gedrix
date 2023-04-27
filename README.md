@@ -25,9 +25,9 @@
 
 
 
-- 💻 &nbsp;  | C# | PHP |  JavaScript | MySQL | MongoDB | OracleDB | PlSql | Arduino |
+- 💻 &nbsp;  | C# | PHP |  JavaScript | MySQL | MongoDB | OracleDB | PlSql | Sql Server | Arduino |
 
-- 🌐 &nbsp; HTML | CSS  | SCSS | Bootstrap | AngularJS | Lumen | Laravel | Flutter |Git
+- 🌐 &nbsp; HTML | CSS  | SCSS | Bootstrap | AngularJS | Angular | Node - Express | Lumen | Laravel | Flutter | Git 
 
 <!--
 
@@ -54,7 +54,7 @@
 <!--[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedrix&show_icons=true)](https://github.com/gedrix)-->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedrix&show_icons=true)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedrix&hide=hack,ShaderLab,Less,SCSS&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedrix&hide=hack,ShaderLab,Less,SCSS&langs_count=8)
 <br>
 
 
